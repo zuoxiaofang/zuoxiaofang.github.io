@@ -567,3 +567,9 @@ dd p:first-child {
   font-size: .85em;
   font-style: italic;
 }
+.time{
+  text-align:center;
+  font-size:14px;
+  padding:6px;
+  background:#ccc;
+}
